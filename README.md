@@ -56,9 +56,9 @@ This README was compiled to present a categorized summary of the courses and cer
 | Course Title                                       | Platform   | Certificate Link                         |
 | -------------------------------------------------- | ---------- | ---------------------------------------- |
 | Programming Logic                                  | SITI       | [file](./files/programming-language.png) |
-| C#.Net Essentials                                  | Tecnoponta | [file](./files/c#_essentials.png)        |
-| C#.Net Intermediate                                | Treinaweb  | [file](./files/c#_intermediate.png)      |
-| C#.Net Advanced                                    | Treinaweb  | [file](./files/c#_advanced.png)          |
+| C#.Net Essentials                                  | Tecnoponta | [file](./files/csharp_essentials.png)    |
+| C#.Net Intermediate                                | Treinaweb  | [file](./files/csharp_intermediate.png)  |
+| C#.Net Advanced                                    | Treinaweb  | [file](./files/csharp_advanced.png)      |
 | Mastering Git and GitHub – From Beginner to Expert | Udemy      | [file](./files/Certificado_Git.pdf)      |
 
 ---
@@ -98,7 +98,7 @@ This README was compiled to present a categorized summary of the courses and cer
 | Agile Scrum Foundation                              | Udemy     | [file](./files/Certificado_ASF.pdf)                              |
 | Product Management 101                              | Udemy     | [file](./files/Certificado%20-%20Product%20Management%20101.pdf) |
 | Business Process Management                         | TI Exames | [file](./files/Certificado_Curso%20-%20BPM.pdf)                  |
-| Management 3.0                                      | TDC       | [file](./files/Certificado%20-%20Product%20Management%20101.pdf) |
+| Management 3.0                                      | TDC       | [file](./files/Certificado_M3.0.pdf)                             |
 | Business Presentation Skills – Excellence Made Easy | Udemy     | [file](./files/Certificado_Presentation_Skills.pdf)              |
 | Persuasion Masterclass                              | Udemy     | [file](./files/Persuasion.pdf)                                   |
 
